@@ -1,0 +1,38 @@
+{ 
+	"departure": {
+		"airport": "Seattle, WA - Seattle-Tacoma Intl Airport (SEA)",
+		"city": "Seattle, WA"
+	},
+	"destination": {
+		"airport": "Cancun, Quintana Roo, Mexico",
+		"city": "Cancun, Mexico"
+	},
+	"tripDetails": {
+		"dateShort": "02/01/2021 - 02/07/2021",
+		"dateFull": "Mon, Feb 1 - Sun, Feb 7",
+		"passengers": "2 adults, 1 room",
+		"totalPassengers": "2"
+	},
+	"hotel1": {
+		"title": "Hotel in Cancun, Mexico",
+		"destination": "Cancun, Mexico",
+		"dates": "02/01/2021 - 02/05/2021"
+	},
+	"hotel2": {
+		"title": "Hotel in Tulum, Mexico",
+		"destination": "Tulum, Quintana Roo, Mexico",
+		"dates": "02/05/2021 - 02/07/2021"
+	},
+	"flight": {
+		"dates": "Mon, Feb 1 - Sun, Feb 7",
+		"title": "Flight from Seattle, WA to Cancun, Mexico"
+	},
+	"flights": [ 
+	    { 
+	    	"location" : "123 Road Dr"
+	    }, 
+	    { 
+	    	"location" : "123 Road Dr"
+	    }
+	] 
+}
